@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Evolu-o-de-Aprendizagem-GitHub
+# Evolução de Aprendizagem do GitHub
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
