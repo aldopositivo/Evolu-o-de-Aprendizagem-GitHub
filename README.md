@@ -4,39 +4,60 @@
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
-- LinkedIn
 - Ética em tecnologia
+- Funções
 - Gestão de tempo
 - Git básico
-- Introdução a TypeScript
+- LinkedIn 
+- Métodos de arrays |, || e |||
 - Métodos de strings
-- Métodos de arrays
+- Soft skills
+- Tipos Utilitários
 
-## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
-- Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
-- TypeScript é uma linguagem de programação relacionada ao JavaScript.
-- Métodos de strings são maneiras de manipular texto em programação.
+## Ética em Tecnologia
+Princípios morais que guiam o desenvolvimento e uso de tecnologias, assegurando benefícios sociais e prevenindo danos.
 
-## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+## Funções
+Blocos de código em TypeScript que executam tarefas específicas, melhorando a organização e reutilização do código.
 
-- Como posso desenvolver minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia?
-- Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
-- Gostaria de entender melhor o que é ética em tecnologia e por que é importante.
-- Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
-- Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferencia do JavaScript.
-- Quero saber o que são métodos de arrays.
+## Gestão de Tempo
+Prática de planejar e controlar o tempo para aumentar a eficiência e produtividade no desenvolvimento de software.
 
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+## Git Básico
+Sistema de controle de versão usado para rastrear mudanças no código-fonte, essencial para colaboração e gerenciamento de projetos em TypeScript.
 
-- Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
-- Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
-- Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
-- Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-- Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
-- Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+## LinkedIn
+Rede social profissional para networking, desenvolvimento de carreira e recrutamento, importante para profissionais de TypeScript.
+
+## Métodos de Arrays |, || e |||
+Operadores usados em TypeScript para manipulação de arrays e condições.
+
+## Métodos de Strings
+Funções em TypeScript que permitem manipular e transformar sequências de caracteres.
+
+## Soft Skills
+Habilidades interpessoais e comportamentais que complementam as habilidades técnicas de um desenvolvedor TypeScript, facilitando a colaboração e a comunicação.
+
+## Tipos Utilitários
+Tipos ou funções que facilitam operações comuns com tipos de dados, como manipulação de propriedades e criação de novos tipos derivados.
+
+### O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+- Quero descobrir maneiras eficazes de melhorar minha gestão de tempo para aumentar minha produtividade diária.
+- Desejo aprender a criar um perfil atraente no LinkedIn e utilizá-lo para encontrar oportunidades de emprego e networking.
+- Quero entender mais profundamente o que é ética em tecnologia e como posso aplicar esses princípios em meu trabalho.
+- Estou interessado em aprender os fundamentos do Git e como utilizá-lo para gerenciar e versionar meus projetos de programação.
+- Gostaria de aprender as diferenças entre TypeScript e JavaScript e como usar TypeScript de maneira eficiente.
+- Quero saber mais sobre os métodos de arrays em TypeScript e como posso utilizá-los para manipular dados de maneira eficaz.
+
+### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+
+- Aprendi a criar um perfil profissional no LinkedIn, destacando minhas habilidades e experiências, e como usá-lo para networking e oportunidades de emprego.
+- Entendi que ética em tecnologia envolve considerar as consequências das inovações tecnológicas e agir de forma responsável para o bem-estar social.
+- Descobri técnicas eficazes de gestão de tempo, como o uso de listas de tarefas e a definição de prioridades, para aumentar minha produtividade.
+- Aprendi a usar o Git para controlar as versões dos meus projetos e colaborar eficientemente com outras pessoas no desenvolvimento de software.
+- Compreendi os conceitos básicos de TypeScript, incluindo suas vantagens sobre o JavaScript, e comecei a aplicá-los em meus projetos.
+- Aprendi a utilizar métodos básicos de strings em TypeScript, como concatenar e dividir textos, para manipular dados textuais.
+- Dominei os métodos básicos de arrays em TypeScript, aprendendo a adicionar, remover e manipular itens em listas de forma eficaz.
