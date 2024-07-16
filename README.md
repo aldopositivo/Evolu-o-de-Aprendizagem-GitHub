@@ -50,14 +50,14 @@ Tipos ou funções que facilitam operações comuns com tipos de dados, como man
 É o desenvolvimento que possa responder as solicitações HTTP dos métodos POST, GET, PUT, DELETE, através do navegador web e outros dispositivos que possam fazer o requerimento.
 
 ## Rotas, Intermediário e Controladores
-
-# - Rotas: 
+Esses três componentes são fundamentais para a organização e manutenção de um servidor web eficiente.
+### Rotas: 
 Vai ser a definição dos endpoints que responde as requisiçoes HTTP especificas que vai está relacionada a um caminho.
 
-# Intermediários ou (Middlawares):
+### Intermediários ou (Middlawares):
 É a função que tem acesso ao onjeto de requisição ao objeto de resposta e a função intermediária da requisição-resposta do site.
 
-# Controladores 
+### Controladores 
 É a classe que contém a lógica para lidar com as requisições da rota, interagindo com os dados, aplicar a lógica e retornar a resposta ao cliente.
 
 ## POO - Paradigma de Orientação a Objetos
