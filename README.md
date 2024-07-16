@@ -100,3 +100,5 @@ E aprimorar a lógica para organizar um servidor mais eficiente, seguro e funcio
 - Aprendi a utilizar métodos básicos de strings em TypeScript, como concatenar e dividir textos, para manipular dados textuais.
 
 - Dominei os métodos básicos de arrays em TypeScript, aprendendo a adicionar, remover e manipular itens em listas de forma eficaz.
+
+Aluno: Aldo dos Santos Junior
